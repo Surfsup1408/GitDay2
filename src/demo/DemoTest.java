@@ -20,5 +20,8 @@ public class DemoTest {
 	public static void subtract(int a , int b){
 		System.out.println(a-b);
 	
-	
+	}
+	//test789
+	public static void addNum(int a, int b);
+	System.out.println(a+b);
 }
