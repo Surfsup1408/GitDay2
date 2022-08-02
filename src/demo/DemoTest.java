@@ -21,9 +21,9 @@ public class DemoTest {
 		System.out.println(a-b);
 	
 	}
-	//test789
-	public static void addNum(int a, int b);
-	System.out.println(a+b);
+	//test789-will it work
+	public static void addNum(int a, int b){
+	System.out.println(a+b); 
 }
 
 
